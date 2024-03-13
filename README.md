@@ -1,2 +1,2 @@
-# C-repo.
+# Cpp-repo.
 C++ problems repository
